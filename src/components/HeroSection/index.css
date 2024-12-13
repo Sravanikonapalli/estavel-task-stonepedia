@@ -1,0 +1,39 @@
+.section {
+    background-image: url('https://media.istockphoto.com/id/516487047/photo/marble-quarry-carrara.jpg?s=612x612&w=0&k=20&c=0w7e-JwGcsStVaHF-zIiV_7u_enDOw-g9nt0G2e9-Po=') no-repeat center center;
+    background-size: cover;
+    height: 100vh;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    position: relative;
+    padding: 20px;
+}
+.heading{
+    font-size: 28px;
+    font-family: 'Georgia';
+    font-weight: 500;
+    color: darkslategray;
+}
+.heading2{
+    font-size: 25px;
+    font-family: 'Arial';
+    color: darkslategray;
+}
+.paragraph{
+    font-size: 18px;
+    font-family: 'Roboto';
+    color: gray;
+}
+.explore-now-btn{
+    border: none;
+    outline: none;
+    border-radius: 14px;
+    color: darkmagenta;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    font-size: 15px;
+    height: 40px;
+    width: 120px;
+    cursor: pointer;
+    background-color: black;
+}

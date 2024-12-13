@@ -1,0 +1,42 @@
+.more-info {
+    display: flex;
+    justify-content: center;  
+    align-items: center;      
+    gap: 20px;                
+  }
+  .more{
+    font-family: fantasy;
+    font-size: 30px;
+    color: midnightblue;
+  }
+  
+  .click-btn {
+    display: flex;
+    align-items: center;      
+    cursor: pointer;
+    outline: none;
+    border: none;
+    border-radius: 15px;
+    height: 40px;
+    width: auto;
+    background-color: darkmagenta;
+    padding: 10px 20px;  
+    margin-bottom: 10px;     
+  }
+  
+  .click-btn a {
+    text-decoration: none;
+    color: white;
+    font-size: 20px;
+    margin-right: 10px;  
+  }
+  
+  .click-btn span {
+    color: white;    
+    font-size: 30px; 
+  }
+  
+  .click-btn:hover {
+    background-color: #8b008b; 
+  }
+  
